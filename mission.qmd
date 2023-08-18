@@ -1,0 +1,17 @@
+---
+title: "Our Mission"
+---
+
+Robust scientific inference and evidence-based decision making require data that inform the underlying question or objective. Accordingly, study design and data collection must be carefully planned and question-specific. The higher the stakes, the greater the required confidence. Confidence in results is achieved through:
+
+1.  ***appropriate experimental design***,
+
+2.  ***proper data analysis***, and
+
+3.  ***effective and honest visualization***.
+
+At EnviroStats Solutions, we provide expert advice and consultation through data analysis, visualization, and interpretation to anyone operating in the environmental space. With our long-standing experience in applied and fundamental research, we are ideally positioned to support you in all aspects of evidence-based decision making starting from experimental design to final recommendations.
+
+Further, we will share our expertise and knowledge in data analysis and environmental statistics through customized workshops and training courses addressing your specific needs. We are experienced users of the R Environment for Statistical Computing with over 10 years of experience.
+
+![](images/envirostats_logo_transparent.png){fig-align="center" width="50%"}

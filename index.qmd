@@ -1,0 +1,16 @@
+---
+#title: "Welcome!"
+#subtitle: "Quantitative Environmental Services"
+---
+
+![](images/envirostats_logo_transparent.png){fig-align="center" width="50%"}
+
+## Welcome!
+
+EnviroStats Solutions is an Edmonton based small business consulting firm providing fast and rigorous environmental statistics, data analysis, visualization, and interpretation in the environmental space.
+
+We also provide professional training in statistics, data management, and visualization within the R programming environment.
+
+If you want to know more about us and the work we are doing, please drop us a line at:
+
+![](images/bitmap.png){fig-align="center" width="45%"}

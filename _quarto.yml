@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quantitative Environmental Services"
+  page-footer: "Copyright 2023, EnviroStats Solutions Inc." 
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - mission.qmd
+      - services.qmd
+    logo: images/envirostats_logo_white_transparent.png
+  favicon: images/favicon.png
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+
+editor: visual
+
+
