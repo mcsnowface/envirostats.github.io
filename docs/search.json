@@ -9,14 +9,28 @@
   {
     "objectID": "mission.html",
     "href": "mission.html",
-    "title": "Our Mission",
+    "title": "Quantitative Environmental Services",
     "section": "",
     "text": "Robust scientific inference and evidence-based decision making require data that inform the underlying question or objective. Accordingly, study design and data collection must be carefully planned and question-specific. The higher the stakes, the greater the required confidence. Confidence in results is achieved through:\n\nappropriate experimental design,\nproper data analysis, and\neffective and honest visualization.\n\nAt EnviroStats Solutions, we provide expert advice and consultation through data analysis, visualization, and interpretation to anyone operating in the environmental space. With our long-standing experience in applied and fundamental research, we are ideally positioned to support you in all aspects of evidence-based decision making starting from experimental design to final recommendations.\nFurther, we will share our expertise and knowledge in data analysis and environmental statistics through customized workshops and training courses addressing your specific needs. We are experienced users of the R Environment for Statistical Computing with over 10 years of experience."
   },
   {
     "objectID": "services.html",
     "href": "services.html",
-    "title": "Our Services",
+    "title": "Quantitative Environmental Services",
+    "section": "",
+    "text": "At EnviroStats Solutions, it is our goal to apply the most appropriate and up-to-date analyses and visualizations to environmental data. We are highly proficient in traditional statistical approaches as well as Bayesian statistics. Our day-to-day modeling consists of:\n\nLinear models\nGeneralized linear models\nLinear mixed effects models\nGeneralized linear mixed effects models\nZero and one inflated/altered models\nClassification and regression tree analyses\nMultivariate analyses, incl. principal component analysis, linear discriminant analysis, non-linear multidimensional scaling techniques\n\nWe further have extensive experience in delivering R teaching workshops. These workshops can be customized and provide participants with basic and advanced training in R, statistics and data visualization."
+  },
+  {
+    "objectID": "mission.html#our-mission",
+    "href": "mission.html#our-mission",
+    "title": "Quantitative Environmental Services",
+    "section": "",
+    "text": "Robust scientific inference and evidence-based decision making require data that inform the underlying question or objective. Accordingly, study design and data collection must be carefully planned and question-specific. The higher the stakes, the greater the required confidence. Confidence in results is achieved through:\n\nappropriate experimental design,\nproper data analysis, and\neffective and honest visualization.\n\nAt EnviroStats Solutions, we provide expert advice and consultation through data analysis, visualization, and interpretation to anyone operating in the environmental space. With our long-standing experience in applied and fundamental research, we are ideally positioned to support you in all aspects of evidence-based decision making starting from experimental design to final recommendations.\nFurther, we will share our expertise and knowledge in data analysis and environmental statistics through customized workshops and training courses addressing your specific needs. We are experienced users of the R Environment for Statistical Computing with over 10 years of experience."
+  },
+  {
+    "objectID": "services.html#our-services",
+    "href": "services.html#our-services",
+    "title": "Quantitative Environmental Services",
     "section": "",
     "text": "At EnviroStats Solutions, it is our goal to apply the most appropriate and up-to-date analyses and visualizations to environmental data. We are highly proficient in traditional statistical approaches as well as Bayesian statistics. Our day-to-day modeling consists of:\n\nLinear models\nGeneralized linear models\nLinear mixed effects models\nGeneralized linear mixed effects models\nZero and one inflated/altered models\nClassification and regression tree analyses\nMultivariate analyses, incl. principal component analysis, linear discriminant analysis, non-linear multidimensional scaling techniques\n\nWe further have extensive experience in delivering R teaching workshops. These workshops can be customized and provide participants with basic and advanced training in R, statistics and data visualization."
   }

@@ -1,6 +1,8 @@
 ---
-title: "Our Services"
+#title: "Our Services"
 ---
+
+## Our Services
 
 At EnviroStats Solutions, it is our goal to apply the most appropriate and up-to-date analyses and visualizations to environmental data. We are highly proficient in traditional statistical approaches as well as Bayesian statistics. Our day-to-day modeling consists of:
 

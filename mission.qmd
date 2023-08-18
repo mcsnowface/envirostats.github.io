@@ -1,6 +1,8 @@
 ---
-title: "Our Mission"
+#title: "Our Mission"
 ---
+
+## Our Mission
 
 Robust scientific inference and evidence-based decision making require data that inform the underlying question or objective. Accordingly, study design and data collection must be carefully planned and question-specific. The higher the stakes, the greater the required confidence. Confidence in results is achieved through:
 
