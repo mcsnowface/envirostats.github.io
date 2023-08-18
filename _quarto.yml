@@ -11,7 +11,7 @@ website:
         text: Home
       - mission.qmd
       - services.qmd
-    logo: images/envirostats_logo_white_transparent.png
+    logo: images/favicon.png
   favicon: images/favicon.png
 
 format:
