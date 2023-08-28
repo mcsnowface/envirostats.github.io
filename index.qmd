@@ -7,10 +7,10 @@
 
 ## Welcome!
 
-EnviroStats Solutions is an Edmonton based small business consulting firm providing fast and rigorous environmental statistics, data analysis, visualization, and interpretation in the environmental space.
+EnviroStats Solutions is a nimble Edmonton-based consulting firm dedicated to delivering efficient and rigorous environmental statistics, data analysis, visualization, and interpretation services. Our focus revolves around the environmental domain, providing practical insights that drive meaningful decisions.
 
-We also provide professional training in statistics, data management, and visualization within the R programming environment.
+Beyond our analytical prowess, we go the extra mile. We offer professional training in statistics, data management, and visualization, all centered within the versatile R programming environment. These workshops are designed to empower you to confidently navigate the world of data.
 
-If you want to know more about us and the work we are doing, please drop us a line at:
+Eager to know more about our journey and the impact we're making? [Don't hesitate to reach out](mailto:[i&#110;&#102;&#111;&#64;e&#110;v&#105;&#114;&#111;s&#116;a&#116;&#115;&#46;c&#97;])!
 
 ![](images/bitmap.png){fig-align="center" width="45%"}
